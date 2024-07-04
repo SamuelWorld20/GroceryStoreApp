@@ -19,3 +19,31 @@
 ![Screenshot (292)](https://github.com/SamuelWorld20/GroceryStoreApp/assets/90863438/6c507b13-8b39-4c82-940b-1ea4a74a6401)
 
 
+**Getting Started**
+
+To get started with the project, follow these steps:
+
+**Prerequisites**
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart: [Install Dart](https://dart.dev/get-dart)
+
+**Installation**
+
+1. Clone the repository:
+   ```
+   git clone https://https://github.com/SamuelWorld20/GroceryStoreApp.git
+   cd groceryapp
+   ```
+
+   2. Install dependencies:
+   ```
+   flutter pub get
+   ```
+
+3. Run the app:
+   ```
+   flutter run
+   ```
+
+**APK Download**
+
