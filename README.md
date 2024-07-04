@@ -1,4 +1,4 @@
-#GroceryStoreApp
+# GroceryStoreApp
 
 This is a basic e-commerce application built with using FLUTTER a cross platform technology for building mobile apps. This app allows users to browse products and then add them to cart the choose to purchase and show a checkout page.
 
