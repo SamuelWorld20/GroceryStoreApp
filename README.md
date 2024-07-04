@@ -1,4 +1,6 @@
-**GroceryStoreApp** This is a basic e-commerce application built with using FLUTTER a cross platform technology for building mobile apps. This app allows users to browse products and then add them to cart the choose to purchase and show a checkout page.
+#GroceryStoreApp
+
+This is a basic e-commerce application built with using FLUTTER a cross platform technology for building mobile apps. This app allows users to browse products and then add them to cart the choose to purchase and show a checkout page.
 
 **Features**
 
@@ -47,3 +49,16 @@ To get started with the project, follow these steps:
 
 **APK Download**
 
+Checkout the APK for this application here https://drive.google.com/file/d/1IX0BO-S-RIJVnUKXMy31MGvkAhJ1aUVD/view?usp=sharing
+
+**Project Structure**
+
+Here's the basic structure the app follows:
+
+- `main.dart`: Entry point of the application
+- `intro_screen`: Here's a welcome page to the app
+- `home_page.dart`: This page contains the products to purchase
+- `cart_page.dart`: This page is where you'll find the items you've decided to purchase
+- `checkout.dart`: This is a checkout page that shows you've successfully ordered an item
+
+  ## Here's my task 1 for the HNG cohort 11 program
