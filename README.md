@@ -1,5 +1,13 @@
-# 🥑📱 GROCERY SHOP APP x FLUTTER
+**GroceryStoreApp** This is a basic e-commerce application built with using FLUTTER a cross platform technology for building mobile apps. This app allows users to browse products and then add them to cart the choose to purchase and show a checkout page.
 
-Watch tutorial here: https://youtu.be/uSljGJGSl6w
+**Features**
 
-![53AC0750-FB81-4C11-9349-448E7FC4717E](https://user-images.githubusercontent.com/29016489/202695738-b37d8ffe-a2c7-41fb-9719-b032bb1ab8c4.JPG)
+- Browse a list of products.
+- Add products to the cart.
+- Remove products from the cart.
+- View a checkout page after purchasing.
+
+**Screenshots**
+
+
+

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'home_page.dart';
 
 class IntroScreen extends StatelessWidget {
@@ -27,16 +26,15 @@ class IntroScreen extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(28.0),
               child: Text(
-                'We deliver groceries at your doorstep',
+                'We deliver items at your doorstep',
                 textAlign: TextAlign.center,
-                style: GoogleFonts.notoSerif(
-                    fontSize: 36, fontWeight: FontWeight.bold),
+                style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
               ),
             ),
 
             // groceree gives you fresh vegetables and fruits
             Text(
-              'Fresh items everyday',
+              'Fresh fruits everyday',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 16,
